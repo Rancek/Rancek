@@ -2,7 +2,7 @@
   <img src="https://github.com/Rancek/Rancek/blob/main/Imagen%20de%20Codex%2023%20sept%202026%2C%2000_58_26.png?raw=true" width="100%">
 </p>
 
-<h1 align="center">🎨 Rancek | Artista 3D</h1>
+<h1 align="center">🎨 Elias Alejandro Medel Collao | Rancek</h1>
 
 <p align="center">
   🧊 Modelado 3D • 🎬 Animación 3D • 🗣️ Lip Sync • ✨ VFX • ✏️ Diseño de Personajes
@@ -12,13 +12,15 @@
 
 # 👋 Sobre mí
 
-¡Hola! Soy **Rancek**, artista enfocado en el mundo del **3D, la animación y la creación audiovisual**.
+¡Hola! Mi nombre es **Elias Alejandro Medel Collao**, y en mis proyectos y trabajos creativos utilizo el alias **Rancek**.
 
-Durante mi formación universitaria desarrollé diferentes proyectos relacionados con **Modelado 3D, Animación, Lip Sync, Diseño de Personajes y Efectos Visuales (VFX)**.
+Soy un artista enfocado en el mundo del **3D, la animación y la creación audiovisual**, con experiencia adquirida a través de mi formación universitaria y del desarrollo de diferentes proyectos personales y académicos.
 
-Este perfil de GitHub funciona como mi **portafolio digital**, donde reúno una selección de trabajos realizados durante mis estudios y proyectos que representan mi proceso de aprendizaje y evolución artística.
+Durante mis estudios desarrollé trabajos relacionados con **Modelado 3D, Animación, Lip Sync, Diseño de Personajes y Efectos Visuales (VFX)**, explorando tanto los aspectos técnicos como artísticos necesarios para llevar una idea desde su concepto inicial hasta una presentación audiovisual.
 
-Mi objetivo es continuar desarrollando mis conocimientos técnicos y creativos, especialmente dentro del mundo de la **animación y producción 3D**.
+Este perfil de GitHub funciona como mi **portafolio digital**, donde reúno una selección de trabajos realizados durante mi formación y proyectos que representan mi proceso de aprendizaje, evolución artística y desarrollo de habilidades.
+
+Mi objetivo es continuar desarrollando mis conocimientos técnicos y creativos, especialmente dentro del mundo de la **animación, el modelado y la producción 3D**.
 
 ---
 
@@ -224,6 +226,7 @@ Busco continuar aprendiendo nuevas técnicas y herramientas que me permitan desa
 </p>
 
 <p align="center">
-  <strong>Rancek</strong><br>
-  Artista 3D
+  <strong>Elias Alejandro Medel Collao</strong><br>
+  <strong>Alias: Rancek</strong><br>
+  🎨 Artista 3D
 </p>
