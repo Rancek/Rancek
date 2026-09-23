@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artista+3D;Cofundador+de+Studios+Conari+SpA;Modelado+3D;Animaci%C3%B3n+3D;Lip+Sync+y+Acting;Efectos+Visuales+%7C+VFX;Dise%C3%B1o+de+Personajes;Arte+%7C+Animaci%C3%B3n+%7C+Creatividad&center=true&width=980&height=70&duration=3500&pause=900&color=CB8BFF&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artista+3D;Cofundador+de+Studios+Conari+SpA;Modelado+3D;Animaci%C3%B3n+3D;Lip+Sync+y+Acting;Efectos+Visuales+%7C+VFX;Dise%C3%B1o+de+Personajes;Arte+%7C+Animaci%C3%B3n+%7C+Creatividad&center=true&width=980&height=70&duration=3500&pause=900&color=00BFFF&size=27">
 </p>
 
 <h1 align="center">🎨 Elias Alejandro Medel Collao | Rancek</h1>
