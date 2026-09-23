@@ -24,6 +24,49 @@ Mi objetivo es continuar desarrollando mis conocimientos técnicos y creativos, 
 
 ---
 
+# 🎮 Studios Conari SpA
+
+<p align="center">
+  <a href="https://studiosconari.github.io/#inicio">
+    <img src="https://github.com/Rancek/Rancek/blob/main/estudios%20conari.png?raw=true" width="700" alt="Studios Conari SpA">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Estudio creativo chileno</strong>
+</p>
+
+<p align="center">
+  🎨 Arte ✦ 📖 Narrativa ✦ 💻 Tecnología ✦ 🔎 Investigación ✦ 🌎 Identidad
+</p>
+
+Soy **Cofundador de Studios Conari SpA**, estudio creativo chileno orientado a la creación de **videojuegos, experiencias interactivas y propiedades intelectuales originales**.
+
+En Studios Conari buscamos desarrollar universos con una identidad visual y narrativa propia, combinando diferentes disciplinas como **arte, narrativa, diseño, tecnología e investigación**.
+
+Mi participación dentro del estudio se enfoca principalmente en:
+
+- 🧊 Modelado 3D.
+- 🎬 Animación 3D.
+- 🎭 Animación de personajes.
+- 🗣️ Lip Sync.
+- ✨ Efectos Visuales (VFX).
+- 🎨 Producción y desarrollo visual.
+- 👤 Desarrollo de personajes.
+- 🗿 Esculpido digital.
+- 🎨 Texturizado y materiales.
+- 💡 Iluminación.
+- 🎞️ Producción audiovisual.
+- 🎮 Creación de recursos gráficos y 3D para videojuegos.
+
+Como Cofundador, mi objetivo es aportar desde el área artística y tridimensional al desarrollo de los diferentes proyectos y universos creados por el estudio.
+
+<p align="center">
+  <strong>🌐 Haz clic en la imagen para visitar la página oficial de Studios Conari.</strong>
+</p>
+
+---
+
 # 🎨 Áreas de trabajo
 
 ## 🧊 Modelado 3D
@@ -104,17 +147,11 @@ He desarrollado diferentes ejercicios relacionados con:
 - 🎞️ Edición.
 - 🖼️ Postproducción.
 
-El flujo general utilizado en estos proyectos fue:
-
-**Material original → Efectos → Composición → Integración → Correcciones → Resultado final**
-
 ---
 
 ## ✏️ Diseño y dibujo de personajes
 
-Antes de llegar al proceso tridimensional también desarrollé diferentes trabajos relacionados con **dibujo y diseño de personajes**.
-
-Durante mi formación universitaria trabajé:
+También desarrollé diferentes trabajos relacionados con **dibujo y diseño de personajes**:
 
 - ✏️ Bocetos.
 - 👤 Diseño de personajes.
@@ -124,8 +161,6 @@ Durante mi formación universitaria trabajé:
 - 🌄 Diseño de entornos.
 - 🎨 Ilustración digital.
 - 🎬 Preparación visual para animación.
-
-Estos trabajos forman parte de la etapa inicial de desarrollo necesaria para transformar una idea en un personaje preparado para una producción.
 
 ---
 
@@ -144,37 +179,35 @@ Estos trabajos forman parte de la etapa inicial de desarrollo necesaria para tra
 
 # 📂 Mi Portafolio
 
-Mis repositorios están organizados por diferentes áreas de trabajo para mostrar de manera clara los proyectos desarrollados durante mi formación.
-
 ## 🧊 Modelos 3D
 
-Modelado de personajes, objetos, estructuras, texturizado y presentación de modelos tridimensionales.
-
 ➡️ **[Ver repositorio Modelos 3D](https://github.com/Rancek/Modelos-3D)**
+
+Modelado de personajes, objetos, estructuras, texturizado y presentación de modelos tridimensionales.
 
 ---
 
 ## 🎬 Animación 3D y Lip Sync
 
-Ejercicios de movimiento, ciclos de animación, acting, expresión y sincronización labial.
-
 ➡️ **[Ver repositorio Animaciones 3D](https://github.com/Rancek/Animaciones-3D)**
+
+Ejercicios de movimiento, ciclos de animación, acting, expresión y sincronización labial.
 
 ---
 
 ## ✨ Efectos Visuales — VFX
 
-Trabajos relacionados con efectos visuales, composición, integración y postproducción.
-
 ➡️ **[Ver repositorio Efectos](https://github.com/Rancek/Efectos)**
+
+Trabajos relacionados con efectos visuales, composición, integración y postproducción.
 
 ---
 
 ## ✏️ Dibujos de Personajes
 
-Diseño de personajes, expresiones, rotaciones, dibujos de entornos y desarrollo artístico.
-
 ➡️ **[Ver repositorio Dibujos de Personajes](https://github.com/Rancek/Dibujos-de-Personajes)**
+
+Diseño de personajes, expresiones, rotaciones, dibujos de entornos y desarrollo artístico.
 
 ---
 
@@ -183,8 +216,6 @@ Diseño de personajes, expresiones, rotaciones, dibujos de entornos y desarrollo
 Los trabajos presentes en mis repositorios fueron desarrollados principalmente durante mi **formación universitaria**.
 
 Cada proyecto representa una etapa diferente de mi aprendizaje y me permitió desarrollar conocimientos tanto técnicos como artísticos.
-
-Mi proceso de formación ha conectado diferentes disciplinas:
 
 **✏️ Diseño → 🧊 Modelado → 🎨 Texturizado → 🎬 Animación → 🗣️ Lip Sync → ✨ VFX → 🎞️ Presentación**
 
@@ -205,6 +236,8 @@ Continúo desarrollando y perfeccionando mis conocimientos en el área del **3D 
 - 🎨 Texturizado.
 - 💡 Iluminación.
 - 🎞️ Producción audiovisual.
+
+También continúo participando como **Cofundador de Studios Conari SpA**, aportando principalmente desde las áreas de arte, modelado, animación y producción 3D.
 
 ---
 
@@ -228,5 +261,5 @@ Busco continuar aprendiendo nuevas técnicas y herramientas que me permitan desa
 <p align="center">
   <strong>Elias Alejandro Medel Collao</strong><br>
   <strong>Alias: Rancek</strong><br>
-  🎨 Artista 3D
+  🎨 Artista 3D | 🎮 Cofundador de Studios Conari SpA
 </p>
