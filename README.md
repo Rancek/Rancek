@@ -2,6 +2,10 @@
   <img src="https://github.com/Rancek/Rancek/blob/main/Imagen%20de%20Codex%2023%20sept%202026%2C%2000_58_26.png?raw=true" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artista+3D;Cofundador+de+Studios+Conari+SpA;Modelado+3D;Animaci%C3%B3n+3D;Lip+Sync+y+Acting;Efectos+Visuales+%7C+VFX;Dise%C3%B1o+de+Personajes;Arte+%7C+Animaci%C3%B3n+%7C+Creatividad&center=true&width=980&height=70&duration=3500&pause=900&color=CB8BFF&size=25">
+</p>
+
 <h1 align="center">🎨 Elias Alejandro Medel Collao | Rancek</h1>
 
 <p align="center">
